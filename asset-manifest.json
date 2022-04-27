@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tomasreichmann.github.io/csb-hrpvh7/static/css/main.9d4f80ee.chunk.css",
+    "main.js": "https://tomasreichmann.github.io/csb-hrpvh7/static/js/main.ad4e644e.chunk.js",
+    "main.js.map": "https://tomasreichmann.github.io/csb-hrpvh7/static/js/main.ad4e644e.chunk.js.map",
+    "runtime-main.js": "https://tomasreichmann.github.io/csb-hrpvh7/static/js/runtime-main.7c331fb6.js",
+    "runtime-main.js.map": "https://tomasreichmann.github.io/csb-hrpvh7/static/js/runtime-main.7c331fb6.js.map",
+    "static/js/2.1c86038c.chunk.js": "https://tomasreichmann.github.io/csb-hrpvh7/static/js/2.1c86038c.chunk.js",
+    "static/js/2.1c86038c.chunk.js.map": "https://tomasreichmann.github.io/csb-hrpvh7/static/js/2.1c86038c.chunk.js.map",
+    "index.html": "https://tomasreichmann.github.io/csb-hrpvh7/index.html",
+    "static/css/main.9d4f80ee.chunk.css.map": "https://tomasreichmann.github.io/csb-hrpvh7/static/css/main.9d4f80ee.chunk.css.map",
+    "static/js/2.1c86038c.chunk.js.LICENSE.txt": "https://tomasreichmann.github.io/csb-hrpvh7/static/js/2.1c86038c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c331fb6.js",
+    "static/js/2.1c86038c.chunk.js",
+    "static/css/main.9d4f80ee.chunk.css",
+    "static/js/main.ad4e644e.chunk.js"
+  ]
+}
